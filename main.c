@@ -3,7 +3,7 @@
 #include <string.h>
 #include <math.h>
 
-
+// Sara Ketlen Moreira Chaves
 // Programado no VS Code
 // Nomeei as variaveis em inglês por costume, com exceção de PIB por razões obvias.
 // Dividi as cosias em funções por boa prática e melhor estrutura do código.
